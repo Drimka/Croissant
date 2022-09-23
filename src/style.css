@@ -1,12 +1,17 @@
-a {
+footer a {
   color: brown;
   text-decoration: none;
-  display: flex;
-  justify-content: space-evenly;
+  padding: 10px;
+}
+footer {
+  margin-top: 15px;
 }
 body {
   text-align: center;
   background-color: rgb(236, 204, 162);
+}
+h1 {
+  color: rgb(88, 51, 2);
 }
 h5 {
   color: rgb(88, 51, 2);
