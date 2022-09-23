@@ -1,0 +1,19 @@
+a {
+  color: brown;
+  text-decoration: none;
+  display: flex;
+  justify-content: space-evenly;
+}
+body {
+  text-align: center;
+  background-color: rgb(236, 204, 162);
+}
+h5 {
+  color: rgb(88, 51, 2);
+  font-size: larger;
+}
+img {
+  display: block;
+  margin: 0 auto;
+  border-radius: 5px;
+}
